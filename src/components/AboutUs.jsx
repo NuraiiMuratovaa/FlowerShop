@@ -26,7 +26,7 @@ export class AboutUs extends Component {
           </div>
         </div>
         <div className="about-us-image">
-          <img src="./public/img/aboutus.jpg" alt="about us" />
+          <img src="./img/aboutus.jpg" alt="about us" />
         </div>
       </div>
     )
