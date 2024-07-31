@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flowershop/static/css/main.9d8b3575.css",
+    "main.js": "/flowershop/static/js/main.394ac8f7.js",
+    "static/media/roses-7314623_1280.jpg": "/flowershop/static/media/roses-7314623_1280.3cdfb6da70084a504626.jpg",
+    "index.html": "/flowershop/index.html",
+    "main.9d8b3575.css.map": "/flowershop/static/css/main.9d8b3575.css.map",
+    "main.394ac8f7.js.map": "/flowershop/static/js/main.394ac8f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8b3575.css",
+    "static/js/main.394ac8f7.js"
+  ]
+}
